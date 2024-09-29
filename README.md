@@ -1,4 +1,4 @@
-# Ishaan Watts's Personal Website
+# Sayam Singla's Personal Website
 
 This repository hosts the source code for the homepage of Sayam Singla, hosted at [sayamsingla2000.github.io/](https://sayamsingla2000.github.io/).
 
