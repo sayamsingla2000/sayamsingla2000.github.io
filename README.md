@@ -1,6 +1,6 @@
 # Ishaan Watts's Personal Website
 
-This repository hosts the source code for the homepage of Ishaan Watts, hosted at [wattsishaan.github.io/](https://wattsishaan.github.io/).
+This repository hosts the source code for the homepage of Sayam Singla, hosted at [sayamsingla2000.github.io/](https://sayamsingla2000.github.io/).
 
 ## Acknowledgements
 
